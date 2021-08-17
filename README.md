@@ -13,8 +13,8 @@
 Mon Discord 🎭
 
 ```bash
-owlio#5764```
-
+owlio#5764
+```
 
 Mon mail 📩
 
@@ -67,9 +67,8 @@ Pour toute collaboration et demande de développement rendez vous sur Discord.
 
 
 ```bash
-owlio#5764```
-
-ou sur
+owlio#5764
+```
 
 
 ⚠️: Le delai de réponse peuvent varier de 1 jours à 7 jours.
