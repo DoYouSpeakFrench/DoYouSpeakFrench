@@ -3,7 +3,7 @@
 ## Sommaire 🤗
 1. [Informations Générale](#Information-Générale)
 2. [Présentation](#Présentation)
-3. [Collaboration](#Collaboration / Demande de Projet)
+3. [Collaboration](#Collaboration)
 3. [FAQs](#faqs)
 
 
@@ -61,7 +61,7 @@ Passioner aussi par la CyberSécurité 🔐 et la sécurité informatique.
 
 
 
-## Collaboration / Demande de Projet
+## Collaboration
 
 Pour toute collaboration et demande de développement rendez vous sur Discord.
 
